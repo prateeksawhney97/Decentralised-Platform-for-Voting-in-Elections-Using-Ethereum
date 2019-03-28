@@ -63,6 +63,9 @@ Visit this URL in your browser: http://localhost:3000
 ![Screenshot from 2019-03-28 20-32-58](https://user-images.githubusercontent.com/34116562/55181689-264b2c00-51b2-11e9-848a-5fa56a1fd0d8.png)
 ![Screenshot from 2019-03-28 20-33-29](https://user-images.githubusercontent.com/34116562/55181695-28ad8600-51b2-11e9-87a5-4a415c5793dd.png)
 ![Screenshot from 2019-03-28 20-33-39](https://user-images.githubusercontent.com/34116562/55181698-2cd9a380-51b2-11e9-9d0a-3154a6f8b6e5.png)
+
+#### Casting the vote from Imported Account:
+
 ![Screenshot from 2019-03-28 20-33-51](https://user-images.githubusercontent.com/34116562/55181705-2fd49400-51b2-11e9-9780-74c53eac3737.png)
 ![Screenshot from 2019-03-28 20-34-11](https://user-images.githubusercontent.com/34116562/55181711-3236ee00-51b2-11e9-8a67-daa3e2a3d9f3.png)
 ![Screenshot from 2019-03-28 20-34-41](https://user-images.githubusercontent.com/34116562/55181716-34994800-51b2-11e9-8823-426d0c23ab87.png)
