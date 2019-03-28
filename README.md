@@ -67,7 +67,13 @@ Visit this URL in your browser: http://localhost:3000
 #### Casting the vote from Imported Account:
 
 ![Screenshot from 2019-03-28 20-33-51](https://user-images.githubusercontent.com/34116562/55181705-2fd49400-51b2-11e9-9780-74c53eac3737.png)
+
+#### Confirming the Transaction:
+
 ![Screenshot from 2019-03-28 20-34-11](https://user-images.githubusercontent.com/34116562/55181711-3236ee00-51b2-11e9-8a67-daa3e2a3d9f3.png)
+
+#### Transaction successful and Ether reduced in the account from which Vote has been given:
+
 ![Screenshot from 2019-03-28 20-34-41](https://user-images.githubusercontent.com/34116562/55181716-34994800-51b2-11e9-8823-426d0c23ab87.png)
 ![Screenshot from 2019-03-28 20-34-59](https://user-images.githubusercontent.com/34116562/55181722-36fba200-51b2-11e9-8a08-89faf5d6e4b2.png)
 ![Screenshot from 2019-03-28 20-35-30](https://user-images.githubusercontent.com/34116562/55181738-39f69280-51b2-11e9-9db7-129b9138e74e.png)
