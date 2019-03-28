@@ -10,6 +10,8 @@ Our Solution is to build a Decentralised application on Blockchain using Ethereu
 
 #### Youtube Link - https://www.youtube.com/watch?v=UlVT_Aiz4kk&feature=youtu.be
 
+#### Presentation Link - https://docs.google.com/presentation/d/1OBUWAH6HTC2MWPyb7WhUfk7ApNunuYISmPe7oKrqR7o/edit#slide=id.p
+
 ## Tools Required:
 
 - NPM: https://nodejs.org
