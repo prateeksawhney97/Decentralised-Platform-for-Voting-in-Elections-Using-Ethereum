@@ -1,4 +1,6 @@
-### Youtube Link - https://www.youtube.com/watch?v=UlVT_Aiz4kk&feature=youtu.be
+# Decentralised Platform for Voting in Elections Using Ethereum
+
+#### Youtube Link - https://www.youtube.com/watch?v=UlVT_Aiz4kk&feature=youtu.be
 
 ## Tools Required:
 
