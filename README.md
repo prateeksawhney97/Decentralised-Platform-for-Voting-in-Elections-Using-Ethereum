@@ -49,9 +49,17 @@ Visit this URL in your browser: http://localhost:3000
 
 ## Screenshots:
 
+#### Initial Page showing the candidates for elections:
+
 ![Screenshot from 2019-03-28 20-32-02](https://user-images.githubusercontent.com/34116562/55181671-20ede180-51b2-11e9-9ce2-7592e1ad81de.png)
+
+#### Selecting account from MetaMask and Ganache:
+
 ![Screenshot from 2019-03-28 20-32-24](https://user-images.githubusercontent.com/34116562/55181679-22b7a500-51b2-11e9-9ef5-612a41661832.png)
 ![Screenshot from 2019-03-28 20-32-47](https://user-images.githubusercontent.com/34116562/55181684-24816880-51b2-11e9-9f5b-37338e2d985a.png)
+
+#### Importing account in MetaMask by Private key of any account from Ganache GUI.
+
 ![Screenshot from 2019-03-28 20-32-58](https://user-images.githubusercontent.com/34116562/55181689-264b2c00-51b2-11e9-848a-5fa56a1fd0d8.png)
 ![Screenshot from 2019-03-28 20-33-29](https://user-images.githubusercontent.com/34116562/55181695-28ad8600-51b2-11e9-87a5-4a415c5793dd.png)
 ![Screenshot from 2019-03-28 20-33-39](https://user-images.githubusercontent.com/34116562/55181698-2cd9a380-51b2-11e9-9d0a-3154a6f8b6e5.png)
