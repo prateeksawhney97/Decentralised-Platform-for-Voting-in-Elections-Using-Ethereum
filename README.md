@@ -6,6 +6,8 @@ Electoral fraud, sometimes referred to as Fake Votes, is illegal interference wi
 
 ## Our Solution:
 
+Our Solution is to build a Decentralised application on Blockchain using Ethereum, so that the voting system becomes transparent and unbiased. One of the key pillars of any healthy democratic system is the presence of independent and impartial elections in a nation. This is possible by Blockchain where we can keep the vote counts and other electoral data protected. The application would consist of a list of eligible candidates for election and we, as a voter, using our unique account having a unique private key, can cast a single vote to the candidate. This would require some ether, but the "Fake Votes" problem can be eliminated.
+
 #### Youtube Link - https://www.youtube.com/watch?v=UlVT_Aiz4kk&feature=youtu.be
 
 ## Tools Required:
