@@ -46,4 +46,5 @@ Migration of the election smart contract is necessary each time Ganache is resta
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
+## Screenshots:
 
