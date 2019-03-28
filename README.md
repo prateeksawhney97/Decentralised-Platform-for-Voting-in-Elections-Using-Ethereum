@@ -76,7 +76,13 @@ Visit this URL in your browser: http://localhost:3000
 
 ![Screenshot from 2019-03-28 20-34-41](https://user-images.githubusercontent.com/34116562/55181716-34994800-51b2-11e9-8823-426d0c23ab87.png)
 ![Screenshot from 2019-03-28 20-34-59](https://user-images.githubusercontent.com/34116562/55181722-36fba200-51b2-11e9-8a08-89faf5d6e4b2.png)
+
+#### Performing a similar procedure for 2nd vote:
+
 ![Screenshot from 2019-03-28 20-35-30](https://user-images.githubusercontent.com/34116562/55181738-39f69280-51b2-11e9-9db7-129b9138e74e.png)
 ![Screenshot from 2019-03-28 20-35-51](https://user-images.githubusercontent.com/34116562/55181743-3cf18300-51b2-11e9-8923-79669e9eeb36.png)
 ![Screenshot from 2019-03-28 20-36-21](https://user-images.githubusercontent.com/34116562/55181753-411da080-51b2-11e9-84c7-f3028bdc4daa.png)
+
+#### Server running in the background:
+
 ![Screenshot from 2019-03-28 20-36-51](https://user-images.githubusercontent.com/34116562/55181759-44189100-51b2-11e9-92c6-8fd5c71fcd9c.png)
