@@ -26,7 +26,6 @@ Our Solution is to build a Decentralised application on Blockchain using Ethereu
 
 ### Step 2. Install dependencies
 ```
-$ cd election
 $ npm install
 ```
 ### Step 3. Start Ganache
