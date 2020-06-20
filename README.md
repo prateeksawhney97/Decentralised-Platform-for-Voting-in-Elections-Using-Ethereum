@@ -2,7 +2,7 @@
 
 ## Problem Statement:
 
-Electoral fraud, sometimes referred to as Fake Votes, is illegal interference with the process of an election, either by increasing the vote share of the favored candidate, depressing the vote share of the rival candidates, or both. The problem is to build a mechanism using which vote counterfeiting can be avoided and genuine votes are being considered.
+Electoral fraud, sometimes referred to as Fake Votes, is illegal interference with the process of an election, either by increasing the vote share of the favoured candidate, depressing the vote share of the rival candidates, or both. The problem is to build a mechanism using which vote counterfeiting can be avoided and genuine votes are being considered.
 
 ## Our Solution:
 
